@@ -1,0 +1,5 @@
+
+ssh me@home.com
+
+scp  me me@holdiday:/beach
+
